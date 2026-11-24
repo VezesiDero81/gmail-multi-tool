@@ -80,3 +80,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: gmail-multi-tool, account, abuse, multi, limits, rotate, email, automation, gmail, cli, developer-tools, open-source, windows, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+gmail account abuse multi limits rotate email automation gmail-multi-tool gm-abuse-tool gmail-account-abuse windows portable prebuilt x64 free download
+related: gmail, account, abuse, multi, limits, rotate, email, automation
